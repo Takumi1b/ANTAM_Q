@@ -1,0 +1,127 @@
+EXPORTS
+    DXL_GetErrorCode = DXL_GetErrorCode@8 @1
+    DXL_GetErrorCode@8 @2
+    DXL_GetHWErrorCode = DXL_GetHWErrorCode@12 @3
+    DXL_GetHWErrorCode@12 @4
+    DXL_GetModelInfo = DXL_GetModelInfo@8 @5
+    DXL_GetModelInfo@8 @6
+    DXL_GetOperatingMode = DXL_GetOperatingMode@12 @7
+    DXL_GetOperatingMode@12 @8
+    DXL_GetPresentAngle = DXL_GetPresentAngle@12 @9
+    DXL_GetPresentAngle@12 @10
+    DXL_GetPresentAngles = DXL_GetPresentAngles@16 @11
+    DXL_GetPresentAngles@16 @12
+    DXL_GetPresentCurrent = DXL_GetPresentCurrent@12 @13
+    DXL_GetPresentCurrent@12 @14
+    DXL_GetPresentCurrents = DXL_GetPresentCurrents@16 @15
+    DXL_GetPresentCurrents@16 @16
+    DXL_GetPresentPWM = DXL_GetPresentPWM@12 @17
+    DXL_GetPresentPWM@12 @18
+    DXL_GetPresentPWMs = DXL_GetPresentPWMs@16 @19
+    DXL_GetPresentPWMs@16 @20
+    DXL_GetPresentVelocities = DXL_GetPresentVelocities@16 @21
+    DXL_GetPresentVelocities@16 @22
+    DXL_GetPresentVelocity = DXL_GetPresentVelocity@12 @23
+    DXL_GetPresentVelocity@12 @24
+    DXL_GetTorqueEnable = DXL_GetTorqueEnable@12 @25
+    DXL_GetTorqueEnable@12 @26
+    DXL_GetTorqueEnables = DXL_GetTorqueEnables@16 @27
+    DXL_GetTorqueEnables@16 @28
+    DXL_InitDevicesList = DXL_InitDevicesList@0 @29
+    DXL_InitDevicesList@0 @30
+    DXL_PrintDevicesList = DXL_PrintDevicesList@4 @31
+    DXL_PrintDevicesList@4 @32
+    DXL_ScanDevices = DXL_ScanDevices@8 @33
+    DXL_ScanDevices@8 @34
+    DXL_SetDriveMode = DXL_SetDriveMode@12 @35
+    DXL_SetDriveMode@12 @36
+    DXL_SetDriveModesEquival = DXL_SetDriveModesEquival@16 @37
+    DXL_SetDriveModesEquival@16 @38
+    DXL_SetGoalAngle = DXL_SetGoalAngle@16 @39
+    DXL_SetGoalAngle@16 @40
+    DXL_SetGoalAngleAndTime = DXL_SetGoalAngleAndTime@24 @41
+    DXL_SetGoalAngleAndTime2 = DXL_SetGoalAngleAndTime2@24 @42
+    DXL_SetGoalAngleAndTime2@24 @43
+    DXL_SetGoalAngleAndTime@24 @44
+    DXL_SetGoalAngleAndVelocity = DXL_SetGoalAngleAndVelocity@24 @45
+    DXL_SetGoalAngleAndVelocity@24 @46
+    DXL_SetGoalAngles = DXL_SetGoalAngles@16 @47
+    DXL_SetGoalAngles@16 @48
+    DXL_SetGoalAnglesAndTime = DXL_SetGoalAnglesAndTime@24 @49
+    DXL_SetGoalAnglesAndTime2 = DXL_SetGoalAnglesAndTime2@24 @50
+    DXL_SetGoalAnglesAndTime2@24 @51
+    DXL_SetGoalAnglesAndTime@24 @52
+    DXL_SetGoalAnglesAndVelocities = DXL_SetGoalAnglesAndVelocities@16 @53
+    DXL_SetGoalAnglesAndVelocities@16 @54
+    DXL_SetGoalCurrent = DXL_SetGoalCurrent@16 @55
+    DXL_SetGoalCurrent@16 @56
+    DXL_SetGoalCurrents = DXL_SetGoalCurrents@16 @57
+    DXL_SetGoalCurrents@16 @58
+    DXL_SetGoalPWM = DXL_SetGoalPWM@16 @59
+    DXL_SetGoalPWM@16 @60
+    DXL_SetGoalPWMs = DXL_SetGoalPWMs@16 @61
+    DXL_SetGoalPWMs@16 @62
+    DXL_SetGoalVelocities = DXL_SetGoalVelocities@16 @63
+    DXL_SetGoalVelocities@16 @64
+    DXL_SetGoalVelocity = DXL_SetGoalVelocity@16 @65
+    DXL_SetGoalVelocity@16 @66
+    DXL_SetLED = DXL_SetLED@12 @67
+    DXL_SetLED@12 @68
+    DXL_SetOperatingMode = DXL_SetOperatingMode@12 @69
+    DXL_SetOperatingMode@12 @70
+    DXL_SetOperatingModesEquival = DXL_SetOperatingModesEquival@16 @71
+    DXL_SetOperatingModesEquival@16 @72
+    DXL_SetTorqueEnable = DXL_SetTorqueEnable@12 @73
+    DXL_SetTorqueEnable@12 @74
+    DXL_SetTorqueEnables = DXL_SetTorqueEnables@16 @75
+    DXL_SetTorqueEnables@16 @76
+    DXL_SetTorqueEnablesEquival = DXL_SetTorqueEnablesEquival@16 @77
+    DXL_SetTorqueEnablesEquival@16 @78
+    DXL_StandStillAngle = DXL_StandStillAngle@8 @79
+    DXL_StandStillAngle@8 @80
+    DXL_StandStillAngles = DXL_StandStillAngles@12 @81
+    DXL_StandStillAngles@12 @82
+    DX_Active = DX_Active@4 @83
+    DX_Active@4 @84
+    DX_ClosePort = DX_ClosePort@4 @85
+    DX_ClosePort@4 @86
+    DX_OpenPort = DX_OpenPort@8 @87
+    DX_OpenPort@8 @88
+    DX_Ping = DX_Ping@12 @89
+    DX_Ping2 = DX_Ping2@16 @90
+    DX_Ping2@16 @91
+    DX_Ping@12 @92
+    DX_ReadBlockData = DX_ReadBlockData@24 @93
+    DX_ReadBlockData@24 @94
+    DX_ReadByteData = DX_ReadByteData@20 @95
+    DX_ReadByteData@20 @96
+    DX_ReadLongData = DX_ReadLongData@20 @97
+    DX_ReadLongData@20 @98
+    DX_ReadSyncData = DX_ReadSyncData@20 @99
+    DX_ReadSyncData@20 @100
+    DX_ReadWordData = DX_ReadWordData@20 @101
+    DX_ReadWordData@20 @102
+    DX_Reboot = DX_Reboot@12 @103
+    DX_Reboot@12 @104
+    DX_Reset = DX_Reset@12 @105
+    DX_Reset@12 @106
+    DX_RxPacket = DX_RxPacket@24 @107
+    DX_RxPacket@24 @108
+    DX_SetBaudrate = DX_SetBaudrate@8 @109
+    DX_SetBaudrate@8 @110
+    DX_SetTimeOutOffset = DX_SetTimeOutOffset@8 @111
+    DX_SetTimeOutOffset@8 @112
+    DX_TxPacket = DX_TxPacket@24 @113
+    DX_TxPacket@24 @114
+    DX_WriteBlockData = DX_WriteBlockData@24 @115
+    DX_WriteBlockData@24 @116
+    DX_WriteByteData = DX_WriteByteData@20 @117
+    DX_WriteByteData@20 @118
+    DX_WriteLongData = DX_WriteLongData@20 @119
+    DX_WriteLongData@20 @120
+    DX_WriteSyncData = DX_WriteSyncData@16 @121
+    DX_WriteSyncData@16 @122
+    DX_WriteWordData = DX_WriteWordData@20 @123
+    DX_WriteWordData@20 @124
+    GetQueryPerformanceCounter = GetQueryPerformanceCounter@0 @125
+    GetQueryPerformanceCounter@0 @126

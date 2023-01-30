@@ -1,0 +1,2 @@
+mode,hmin,hmax,smin,smax,vmin,vmax,lefttopx,lefttopy,leftbottomx,leftbottomy,righttopx,righttopy,rightbottomx,rightbottomy,threshold,motornum,pgain,igain,dgain,offsetx,offsety
+0,20,30,58,255,96,255,0,0,0,0,0,0,0,0,60,0,1,0,0,320,240
