@@ -2,7 +2,7 @@
 小型生物用の行動計測用ソフトウェア
 
 # DEMO
-[![サービス紹介動画](https://i9.ytimg.com/vi/c_XIWnayPXA/mq2.jpg?sqp=CJC64J4G&rs=AOn4CLCnjSM_6XZW2Of1fhxwY8Tbmp-b5A)](https://youtu.be/c_XIWnayPXA)
+[![紹介動画](https://user-images.githubusercontent.com/103201314/220066637-5e15a2f1-559a-4158-a9ae-d4c85d7267ba.png)](https://youtu.be/c_XIWnayPXA)
 
 # Requirement
 * Qt Creator(Qt6 6.4.2)
